@@ -1,0 +1,12 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "files.autoGuessEncoding": true,
+    "files.exclude": {
+        "**/.vscode": true,
+        "compile_commands.json": true,
+        "*.hrccproj": true,
+        "*.sln": true,
+        "*.suo": true
+    },
+    "python.pythonPath": "C:\\Users\\FayzurRahman\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}
